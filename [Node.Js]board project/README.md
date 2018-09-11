@@ -2,7 +2,7 @@
 - vscode, nodejs, express, mongodb(mongoose), ejs
 
 * npm module download(npm install --save express) -> npm 모듈 설치는 프로젝트 폴더 안에서 수행
-  - express
+  - express 웹 서버
   - body-parser
   - method-override 
   - ...
