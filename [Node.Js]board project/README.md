@@ -1,6 +1,5 @@
 # Nodejs-board-project(JavaScript) 2018-09-11
-- 개발툴 : vscode 
-  nodejs, express, mongodb(mongoose), ejs
+- vscode, nodejs, express, mongodb(mongoose), ejs
 
 * npm module download(npm install --save express) -> npm 모듈 설치는 프로젝트 폴더 안에서 수행
   - express
